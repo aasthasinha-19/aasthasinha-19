@@ -11,8 +11,9 @@
 - 🌱 I’m currently learning Data structures and Algorithms.
 - 👨‍💻 You can view my Projects at [https://aasthaswebsite.netlify.app/](https://aasthaswebsite.netlify.app/)
 -  📫 How to reach me:
- - * [**Drop a Mail**](mailto:aasthasinha1909@gmail.com)
-
+  * [**Drop a Mail**](mailto:aasthasinha1909@gmail.com)
+   * [**Visit my Website**](https://aasthaswebsite.netlify.app/)
+    
    
 
 
@@ -24,7 +25,6 @@
 
 <a href=" https://www.linkedin.com/in/aastha-sinha-738a381b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aastha sinha" height="30" width="40" /></a><a href="https://medium.com/@aastha-sinha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" alt="aastha-sinha" height="30" width="40" /></a>
 
-
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aasthasinha-19&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
@@ -34,3 +34,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthasinha-19&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aasthasinha-19&" alt="aasthasinha-19" /></p>
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/aasthasinha-19)
+ 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
