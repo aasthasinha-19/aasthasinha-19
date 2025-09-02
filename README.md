@@ -7,8 +7,8 @@
 
 <h3>Talking about Personal Stuffs:</h3>
 
-- 🔭 I’m currently working on Javascript
-- 🌱 I’m currently learning Data structures and Algorithms.
+- 🔭 I’m currently working on data analysis project
+- 🌱 I’m currently learning data analysis
 - 👨‍💻 You can view my Projects at [https://aasthaswebsite.netlify.app/](https://aasthaswebsite.netlify.app/)
 -  📫 How to reach me:
   * [**Drop a Mail**](mailto:aasthasinha1909@gmail.com)
