@@ -13,7 +13,7 @@
 ## 🌟 About Me  
 
 I am a passionate **Software Engineer** who loves building reliable, scalable, and meaningful solutions.  
-My strengths lie in **Python development**, **backend engineering**, **test-case design**, and **automation**, with growing exposure to **AI/ML concepts** through real-world projects and structured learning programs.
+My strengths lie in **Python development**, **backend engineering**, with growing exposure to **AI/ML concepts** through real-world projects and structured learning programs.
 
 I enjoy turning complex workflows into simple, automated solutions and exploring how modern AI systems can be integrated into backend applications. My learning mindset keeps me experimenting with tools, frameworks, and new concepts that help me grow as a developer.
 
