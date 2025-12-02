@@ -108,7 +108,8 @@ Performed data cleaning, transformation, visualization, and insight extraction f
 
 ## 📊 GitHub Stats 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aasthasinha-19&show_icons=true&theme=light" />
+  <img height="160" src="![Stats](https://github-readme-stats.vercel.app/api?username=aasthasinha-19&show_icons=true&theme=light&cache_seconds=60)
+" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthasinha-19&layout=compact&theme=light" />
 </p>
 
