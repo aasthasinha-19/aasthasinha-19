@@ -78,7 +78,7 @@ An optional **LLM-based explanation layer** converts static analysis into easy-t
 Performed data cleaning, transformation, visualization, and insight extraction from Airbnb datasets using **Pandas**, **NumPy**, and **Matplotlib**.
 
 ⭐ Explored pricing trends, neighborhood performance, and business-driven insights.  
-🔗 *[Repo link – add here]*  
+🔗 *[Repo link – https://github.com/aasthasinha-19/Newyork-Airbnb-listings-2024-Analysis-]*  
 
 ---
 
