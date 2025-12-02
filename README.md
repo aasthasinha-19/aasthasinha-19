@@ -61,7 +61,7 @@ A retrieval-based AI governance platform using **MiniLM embeddings**, **FAISS**,
 It evaluates documents, detects risks, and produces structured governance reports with semantic search and context retrieval.
 
 ⭐ *Strengthened my understanding of RAG, backend–LLM integration, and vector search.*  
-🔗 *[Repo link – add here]*  
+🔗 *[Repo link – https://github.com/aasthasinha-19/AegisRisk_AI]*  
 
 ---
 
@@ -88,14 +88,12 @@ Performed data cleaning, transformation, visualization, and insight extraction f
 - Practical AI/ML implementations  
 - Embeddings, vector search & retrieval workflows  
 - Writing cleaner, more maintainable code  
-- Automation for testing and developer productivity  
-
+ 
 ---
 
 ## 💡 Interests Beyond Coding  
 - Exploring AI-driven developer tools  
 - Back-end architecture & workflow optimization  
-- Automation engineering  
 - Analytics and real-world ML applications  
 - Technical writing & learning documentation  
 
