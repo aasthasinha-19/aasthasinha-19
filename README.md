@@ -27,7 +27,6 @@ Every project I build is a step toward mastering my craft.
 ### **Languages**
 - 🐍 Python  
 - 💾 SQL  
-- ⚙️ C (System-level workflows)
 
 ### **Backend Development**
 - 🚀 FastAPI  
@@ -71,7 +70,7 @@ Built an AI-assisted code analysis tool using **Radon** and **Pylint** to comput
 An optional **LLM-based explanation layer** converts static analysis into easy-to-understand improvement suggestions.
 
 ⭐ Includes API endpoints for uploading code and generating detailed analysis results.  
-🔗 *[Repo link – add here]*  
+🔗 *[Repo link – https://github.com/aasthasinha-19/AI-Python-Code-Quality-Analyzer]*  
 
 ---
 
