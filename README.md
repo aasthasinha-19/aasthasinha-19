@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">✨ Hello, I'm <strong>Aastha Sinha</strong> ✨</h1>
-<h3 align="center">Software Engineer | Python Developer | Backend & Automation | Exploring AI/ML</h3>
+<h3 align="center">Software Engineer | Python Developer | Backend | Exploring AI/ML</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge">
